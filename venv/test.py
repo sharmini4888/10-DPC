@@ -1,7 +1,7 @@
 import re
 import json
 
-products = ["WF- PASTA SAUCE CHESSY16X10X30GM-32", "WF- PASTA SAUCE CHESSY8X20X30GM"]
+products = ["WF- PASTA SAUCE CHESSY16X10X30GM-32", "WF- PASTA SAUCE CHESSY8X20X20GM"]
 
 product_list = []
 
